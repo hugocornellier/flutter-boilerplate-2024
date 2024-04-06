@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       theme: new ThemeData(
         primarySwatch: Colors.red,
       ),
-      home: new MyHomePage(title: 'Abby + Hugo 4 ever'),
+      home: new MyHomePage(title: 'Flutter demo.'),
     );
   }
 }
@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             new Text(
-              'Abby is cute!!!',
+              'Some centered text...',
             ),
           ],
         ),
