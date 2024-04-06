@@ -1,8 +1,5 @@
-# hello_world
+# Flutter Boiler Plate 
 
-A new Hello World Flutter project.
+A boilerplate for a Flutter app. 
 
-## Demo
-
-![](/screenshots/demo.png)
-# flutter-boilerplate-2024
+Forked from a [6 year old project](https://github.com/vaibhavsingh97/hello-flutter) and updated to work in 2024.
